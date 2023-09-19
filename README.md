@@ -28,7 +28,7 @@
 Now I am familiar with Rails and React, it's time to put them together in a new kind of 'Hello World!' app. In this exercise, I created a React front-end with a Rails back-end and connected them to display a random message.
 
 ## 🚀 Frontend App <a name="frontend"></a>
-- [Clich here to navigate to the Frontend ](https://github.com/MarcoDiaz2000/hello-react-front-end)
+- [Click here to navigate to the Frontend ](https://github.com/MMarcoDiaz2000/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,13 +56,17 @@ Now I am familiar with Rails and React, it's time to put them together in a new 
 - [React](https://reactjs.org/)
 - [Postgres](https://www.postgresql.org/)
 
-### Install
+### Install Backend and Frontend
 
 ```
 git clone https://github.com/MarcoDiaz2000/hello-rails-back-end.git
 cd hello-rails-back-end
 bundle install
-rails s
+```
+```
+git clone https://github.com/MarcoDiaz2000/hello-react-front-end.git
+cd hello-react-front-end
+npm install
 ```
 
 <!-- AUTHORS -->
