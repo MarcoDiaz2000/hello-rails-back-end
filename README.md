@@ -45,7 +45,6 @@ Now I am familiar with Rails and React, it's time to put them together in a new 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
